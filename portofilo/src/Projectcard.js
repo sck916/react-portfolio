@@ -4,7 +4,7 @@ import {
     Route,
     Link
   } from "react-router-dom";
-  //import pic from './1.jpeg'
+ 
 
 function Projectcard(props) {
 

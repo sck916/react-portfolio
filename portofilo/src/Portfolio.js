@@ -26,7 +26,7 @@ function Portfolio() {
       <Header />
   <div className="container">
 
-        <h1>COMING SOON pics</h1>
+        
 
         {state.projects.map((eachProject)=>{
         console.log("Looping?", eachProject);
@@ -36,20 +36,7 @@ function Portfolio() {
                  pic={eachProject.pic}
                  />)
         })}
-      {/* <div className="col-lg-4 col-md-12 mb-4">
-
-        <img src="img/1.jpeg" className="img-fluid mb-4" alt=""/>
-
-        <img src="img/2-350x350.jpeg" className="img-fluid mb-4" alt="" data-wow-delay="0.3s" />
-      </div>
-
-      <div className="col-lg-4 col-md-6 mb-4">
-        <img src="img/3-350x350.jpeg" className="img-fluid mb-4" alt="" data-wow-delay="0.2s"/>
-
-        <img src="img/5-350x350.jpeg" className="img-fluid mb-4" alt="" data-wow-delay="0.5s"/>
-
-        <img src="img/6-350x350.jpeg" className="img-fluid mb-4" alt="" data-wow-delay="0.5s"/>
-      </div> */}
+     
   </div>
 
 
