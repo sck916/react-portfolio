@@ -76,6 +76,12 @@ footer {
   .card-img-6{
       float: right;
       }
+
+      label {
+        display: inline-block;
+        margin-bottom: .5rem;
+        text-color: black
+    }
       
 
 
