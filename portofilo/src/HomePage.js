@@ -31,21 +31,24 @@ function Homepage() {
 
   <div className="card" style={{width: '400px', marginTop:'70px', margin:'auto'}}>
     <h1 className="card-title">About Me</h1>
-    <img className="card-img-top" src="img/1.jpeg" alt="Card image cap" id="img1" />
+    <img className="card-img-top" src="../public/images/1.jpeg" alt="Card image cap" id="img1" />
     <div className="card-body">
       <p className="card-text">
         Hello, my name is Steve. I am currently a student at Northwestern University's coding program. I am also a
         Husband, Father and Navy veteran. Below is some of my work.
 
       <div>
-          {/* <!-- <a href="https://github.com/sck916/">GitHub profile</a>
-          <br>
+          <a href="https://github.com/sck916/">GitHub profile</a>
+          <br />
           <a href="https://www.linkedin.com/in/steve-kavuu-8a96611b7/">LinkedIn profile</a>
-          <br> --> */}
-          <a href="https://sck916.github.io/code-refhomework/">Refactor</a>
-          <a href="https://sck916.github.io/responsivehw/">responsive</a>
-          <a href="https://sck916.github.io/Password-Generator/">Password Generator</a>
-          <a href=" https://sck916.github.io/code-quiz/">Code Quiz</a>
+          <br />
+          <a href="https://sck916.github.io/code-refhomework/" target="_blank">Refactor</a>
+          <br />
+          <a href="https://sck916.github.io/responsivehw/" target="_blank">responsive</a>
+          <br />
+          <a href="https://sck916.github.io/Password-Generator/" target="_blank">Password Generator</a>
+          <br />
+          <a href=" https://sck916.github.io/code-quiz/" target="_blank">Code Quiz</a>
       </div>
 
 
