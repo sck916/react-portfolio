@@ -5,7 +5,6 @@
 * Production Team
 * Demo Links
 * Technology
-* Sources
 * Additional Questions   
 
 ## Description 
